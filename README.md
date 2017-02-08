@@ -2,8 +2,7 @@
 ***
 * ຊື່ຟອນຕ໌: SNT Anouvong™ (ເອັສເອັນທີ ອະນຸວົງ™).<br>
 * ສ້າງສັນຜົນງານໂດຍ: [Sengkeo Vangxiengvue (ແສງແກ້ວ ວ່າງເຊ່ຍວື່)](https://www.facebook.com/vangxiengvue) ເອີ້ນ "ຕົງ" ກໍໄດ້ ເອີ້ນ "ແກ້ວ" ກໍດີ.<br>
-* ສັງກັດຄ້າຍ: [SAONATYPE™ (ຊາວນາໄທ້™) - ພື້ນທີ່ເລັກໆຂອງຄົນຫັດອອກແບບຟອນຕ໌](https://www.facebook.com/saonatype).<br>
-* ທີ່ໄປທີ່ມາຂອງຟອນຕ໌: http://www.f0nt.com/forum/index.php/topic,22975.0.html.<br>
+* ສັງກັດຄ້າຍ: Typofonix (https://www.facebook.com/typofonix).<br>
 
 #DOWNLOAD
 ***
