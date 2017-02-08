@@ -34,7 +34,7 @@
 ສຸດທ້າຍກໍຊ່ວຍກັນກົດ LIKE ກົດ SHARE ເພຈໃຫ້ກຳລັງໃຈຄົນສ້າງແນ່ເດີ້ພີ່ນ້ອງ (ເພື່ອຈະໄດ້ມີແຮງສ້າງຟອນຕ໌ໃໝ່ມາແຈກໃຫ້ໃຊ້ກັນອີກ).<br>
 ອ້າວ ກົດຖະແມ່ນສູເຈົ້າ! ຍັງຖ້າຫຍັງຢູ່.<br>
 
->ກົດຕິດຕາມໄດ້ທີ່: https://www.facebook.com/saonatype.<br>
+>ກົດຕິດຕາມໄດ້ທີ່: https://www.facebook.com/saonatype ແລະ https://www.facebook.com/typofonix <br>
 
 #LICENSE
 ***
@@ -45,7 +45,7 @@
 #CONTACT US
 ***
 >SNT Anouvong™ © 2016 by SAONATYPE™.<br>
-Fanpage: www.facebook.com/saonatype.<br>
-E-mail: saonatype@gmail.com.<br>
-Molibe: +856 205 400 6456.<br>
+Fanpage: https://www.facebook.com/saonatype ແລະ https://www.facebook.com/typofonix<br>
+E-mail: vangxiengvue@gmail.com.<br>
+Phone: +856 2096612556.<br>
 Vientiane, Laos.<br>
